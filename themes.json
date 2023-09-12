@@ -17,7 +17,7 @@
             },
             "abstract": "",
             "keywords": "",
-            "onlineResource": "http://localhost:8080/cgi-bin/qgis_mapserv.fcgi.exe?MAP=E%3A%2FNada%2FArticles%2FJojo%2FNRJ%2FFlaneries%2Ftmp%2FUNESCO_QGIS_SERVER.qgs",
+            "onlineResource": "https://qgiscloud.com/nadas/UNESCO_CLOUD/",
             "contact": {
               "person": "",
               "organization": "",
@@ -107,8 +107,8 @@
             "drawingOrder": [
               "pourqgis2web"
             ],
-            "legendUrl": "http://localhost:8080/cgi-bin/qgis_mapserv.fcgi.exe?MAP=E%3A%2FNada%2FArticles%2FJojo%2FNRJ%2FFlaneries%2Ftmp%2FUNESCO_QGIS_SERVER.qgs&?",
-            "featureInfoUrl": "http://localhost:8080/cgi-bin/qgis_mapserv.fcgi.exe?MAP=E%3A%2FNada%2FArticles%2FJojo%2FNRJ%2FFlaneries%2Ftmp%2FUNESCO_QGIS_SERVER.qgs&?",
+            "legendUrl": "https://qgiscloud.com/nadas/UNESCO_CLOUD/&?",
+            "featureInfoUrl": "https://qgiscloud.com/nadas/UNESCO_CLOUD/&?",
             "printUrl": "http://localhost:8080/cgi-bin/qgis_mapserv.fcgi.exe?MAP=E%3A%2FNada%2FArticles%2FJojo%2FNRJ%2FFlaneries%2Ftmp%2FUNESCO_QGIS_SERVER.qgs&?",
             "themeInfoLinks": {
               "title": "Info links",
