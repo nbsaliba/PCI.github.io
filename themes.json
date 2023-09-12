@@ -7,7 +7,7 @@
         "title": "Dev Tests",
         "items": [
           {
-            "url": "http://localhost:8080/cgi-bin/qgis_mapserv.fcgi.exe?MAP=E:/Nada/Articles/Jojo/NRJ/Flaneries/tmp/UNESCO_QGIS_SERVER.qgs",
+            "url": "https://qgiscloud.com/nadas/UNESCO_CLOUD/",
             "id": "UNESCO_QGIS_SERVER.qgs1",
             "title": "Demo",
             "description": "",
